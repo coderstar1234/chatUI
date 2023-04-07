@@ -3,7 +3,7 @@
 
 - This is a simple Chatbot User Interface project built using HTML, CSS, and JavaScript. 
 - The Chatbot UI is designed to be used with a backend service that handles the logic of the chatbot, such as generating responses to user input.
-
+https://media1.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif
 <h1 align="center">Getting Started:-</h1>
 
 - To use the Chatbot UI, you'll need to have a backend service set up that can handle requests from the UI and generate responses.
