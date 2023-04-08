@@ -23,7 +23,7 @@
 
 - If you find any issues with the Chatbot UI or have suggestions for improvements, feel free to submit a pull request or open an issue on this repository. We welcome contributions from anyone who would like to help improve the project!
 <hr>
-<h1 align="center">License:-</h1>
+<h1 align="center">License🔧:-</h1>
 
 - This project is licensed under the MIT License. See the LICENSE file for details.
 <hr>
