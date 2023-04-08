@@ -14,7 +14,7 @@
 - Once you have your backend service set up, you can clone this repository and open the index.html file in your web browser.
 - The Chatbot UI will load and display a simple chat interface where users can enter messages and receive responses from the backend service.
 <hr>
-<h1 align="center">Customizing the UI:-</h1>
+<h1 align="center">Customizing the UI📙:-</h1>
 
 - The Chatbot UI is built using simple HTML and CSS, so it's easy to customize and modify to fit your needs.
 - You can modify the HTML and CSS files directly to change the appearance of the chat interface, or you can modify the JavaScript file to add additional functionality.
