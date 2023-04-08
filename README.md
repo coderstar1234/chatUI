@@ -22,7 +22,8 @@
 <hr>
 <h1 align="center">Contributing👫:-</h1>
 
-- If you find any issues with the Chatbot UI or have suggestions for improvements, feel free to submit a pull request or open an issue on this repository. We welcome contributions from anyone who would like to help improve the project!
+- If you find any issues with the Chatbot UI or have suggestions for improvements, feel free to submit a pull request or open an issue on this repository.
+- We welcome contributions from anyone who would like to help improve the project!
 <hr>
 <h1 align="center">License🔧:-</h1>
 
