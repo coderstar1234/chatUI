@@ -1,5 +1,5 @@
 
-<h1 align="center">Chatbot UI:-</h1>
+<h1 align="center">Chatbot UI🧾:-</h1>
 
 - This is a simple Chatbot User Interface project built using HTML, CSS, and JavaScript. 
 - The Chatbot UI is designed to be used with a backend service that handles the logic of the chatbot, such as generating responses to user input.
