@@ -19,7 +19,7 @@
 - The Chatbot UI is built using simple HTML and CSS, so it's easy to customize and modify to fit your needs.
 - You can modify the HTML and CSS files directly to change the appearance of the chat interface, or you can modify the JavaScript file to add additional functionality.
 <hr>
-<h1 align="center">Contributing:-</h1>
+<h1 align="center">Contributing👫:-</h1>
 
 - If you find any issues with the Chatbot UI or have suggestions for improvements, feel free to submit a pull request or open an issue on this repository. We welcome contributions from anyone who would like to help improve the project!
 <hr>
