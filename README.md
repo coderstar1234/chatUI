@@ -7,7 +7,7 @@
 <img height="200" wedith="200" src="https://media1.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif"></div>
 <hr>
 
-<h1 align="center">Getting Started:-</h1>
+<h1 align="center">Getting Started💻💻:-</h1>
 
 - To use the Chatbot UI, you'll need to have a backend service set up that can handle requests from the UI and generate responses.
 - The backend service should accept POST requests with a JSON payload that includes the user's message and any additional information needed to generate a response.
